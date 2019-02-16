@@ -1,5 +1,5 @@
-package main
+package helloworld
 
-/*func main() {
+func hello() {
 	fmt.Printf("hello, world!\n")
-}*/
+}
